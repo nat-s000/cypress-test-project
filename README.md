@@ -2,7 +2,6 @@
 
 - [Install Node.js](https://nodejs.org/en/download)
 - [Install Cypress via npm](https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install)
-- [Install TypeScript via npm](https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install)
 
 ## Running the tests
 
