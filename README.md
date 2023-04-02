@@ -1,11 +1,9 @@
 ## Setup for running tests
-
 - [Install Node.js](https://nodejs.org/en/download)
-- [Install Cypress via npm](https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install)
+- In the project root directory, [install Cypress via npm](https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install)
 
 ## Running the tests
-
-1. In your project root, [run Cypress with npx.](https://docs.cypress.io/guides/getting-started/opening-the-app#cypress-open)
+1. In your project root, [run Cypress with npx](https://docs.cypress.io/guides/getting-started/opening-the-app#cypress-open)
 ```
 npx cypress open
 ```
